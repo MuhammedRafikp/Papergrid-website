@@ -1,0 +1,61 @@
+.header{
+    height: 38.891px;
+}
+.header-border{
+    border-color: #363636;
+}
+.last-page{
+    width: 1116px;
+    height: 529.109px;
+    background-color: aqua;
+}
+.md-img{
+    width: 393.281px;
+    height: 529.109px;
+} 
+
+.font1{
+    font-family: sans-serif;
+}
+.btn1 {
+    border-color: black;
+}
+
+.navbar-nav li{
+    padding-left: 15px;
+
+}
+.navbar-nav a{
+    color: rgba(255, 255, 255, 0.705);
+}
+.navbar-nav a:hover{
+   color: white;
+    text-decoration-line: underline;
+}
+
+.contact a{
+    color: rgba(255, 255, 255, 0.61);
+}
+.contact a:hover{
+    color: white;
+}
+.hlo a{
+   
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.596);
+}
+.hlo li{
+    font-size: 12px;
+    padding-right: 5px;
+    list-style-type:none;
+}
+.hlo a:hover{
+    color: white;
+    text-decoration: underline white;
+}
+.hlo ul{
+   text-align: center;
+   
+}
+
+ 
